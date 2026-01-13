@@ -62,7 +62,7 @@ the weekend vibe coding this quick prototype to explore what "interactive and en
               </a>
               <div>
                 <a
-                  href="https://github.com/akshitnassa"
+                  href="https://github.com/AKnassa/3play"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-foreground-muted hover:text-foreground transition-colors"
